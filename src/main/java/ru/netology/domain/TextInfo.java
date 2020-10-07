@@ -4,4 +4,6 @@ public class TextInfo {
     private String postText;
     private String expandText;
     private String addEmoji;
+
+    //    + get/set на все поля
 }

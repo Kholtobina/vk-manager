@@ -8,4 +8,9 @@ public class CommentsInfo {
     private boolean canLike;
     private boolean canAttach;
 
+    // Добавленные поля
+
+    private boolean groupsCanPost;
+
+    //    + get/set на все поля
 }
